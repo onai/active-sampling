@@ -1,0 +1,2 @@
+1 this is the first document with label 1
+0 this is the second document with label 0
